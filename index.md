@@ -13,8 +13,8 @@ humandate: "June 18-19, 2020"    # human-readable dates for the workshop (e.g., 
 humantime: "8:30 a.m. - 4:00 p.m."    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-05-18      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-05-19        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["instructor one", "instructor two"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["helper one", "helper two"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Clarke Iakovakis", "instructor two"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Kay Bjornen", "tbd"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["clarke.iakovakis@okstate.edu","kay.bjornen@okstate.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -229,23 +229,6 @@ Display the contact email address set in the configuration file.
 </p>
 
 <hr/>
-<!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_6740464" matches with the above code: jQuery("#s_lc_event_6740464")  //-->
-<a id="s_lc_event_6740464" href="https://okstate.libcal.com/event/6740464">CLICK AND REGISTER</a>
-<!-- Below is optional element styling  //-->
-<style>
-#s_lc_event_6740464 {
-  background: #33FF4C;
-  border: 1px solid #DFDFDF;
-  border-radius: 4px;
-  color: #777777;
-  font: 14px Arial, Helvetica, Verdana;
-  padding: 8px 20px;
-  cursor: pointer;
-}
-#s_lc_event_6740464:hover {
-  opacity: 0.9;
-}
-</style>
 
 {% comment%}
 CODE OF CONDUCT
