@@ -216,7 +216,7 @@ Display the contact email address set in the configuration file.
 <!-- Below is optional element styling  //-->
 <style>
 #s_lc_event_6740464 {
-  background: #DFDFDF;
+  background: #336EFF;
   border: 1px solid #DFDFDF;
   border-radius: 4px;
   color: #777777;
